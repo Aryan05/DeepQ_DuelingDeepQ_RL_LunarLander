@@ -17,13 +17,9 @@
 
 
 ## Non-Linear Approximation
-### Deep Q Network - [Paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) 
+### Deep Q Network - [Paper](https://drive.google.com/file/d/1RA1CGSItL-Gp_I2rk1HwypMKcHevH5ch/view?usp=sharing) 
 ![](./gifs/dqn.gif)
 
-### Double Deep Q Network - [Paper](https://arxiv.org/abs/1509.06461)
-![](./gifs/ddqn.gif)
-
-### Prioritized Experience Replay - [Paper](https://arxiv.org/abs/1511.05952)
 
 ### Dueling Deep Q Network - [Paper](https://arxiv.org/abs/1511.06581)
 ![](./gifs/duel_dqn.gif)
